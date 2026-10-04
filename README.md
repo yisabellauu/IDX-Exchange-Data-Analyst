@@ -1,5 +1,6 @@
 # IDX-Exchange-Data-Analyst
 
-## Week 1 – Monthly Dataset Aggregation 
+## Week 1 
+Monthly Dataset Aggregation 
 
 
